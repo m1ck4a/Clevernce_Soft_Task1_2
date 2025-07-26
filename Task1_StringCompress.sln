@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1_StringCompress", "Task1_StringCompress\Task1_StringCompress.csproj", "{BBB779FE-388F-4A43-A67B-0A9674F2643C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2_Server", "Task2_Server\Task2_Server.csproj", "{45081817-E080-496A-8989-FF5F77670E86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBB779FE-388F-4A43-A67B-0A9674F2643C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBB779FE-388F-4A43-A67B-0A9674F2643C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBB779FE-388F-4A43-A67B-0A9674F2643C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBB779FE-388F-4A43-A67B-0A9674F2643C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45081817-E080-496A-8989-FF5F77670E86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45081817-E080-496A-8989-FF5F77670E86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45081817-E080-496A-8989-FF5F77670E86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45081817-E080-496A-8989-FF5F77670E86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2C53523-0781-4286-8721-257C4AFDB2B1}
+	EndGlobalSection
+EndGlobal
